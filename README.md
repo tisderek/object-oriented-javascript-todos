@@ -44,6 +44,8 @@ breadTask.completed //-> false
 // This should complete the task
 breadTask.complete();
 
+breadTask.completed //-> true
+
 groceryList.list();
 //> Task {id: 1, description: 'bread', completed: true}
 //> Task {id: 2, description: 'cheese', completed: false}
