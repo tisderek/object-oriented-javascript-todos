@@ -53,7 +53,7 @@ groceryList.list();
 
 
 // This should remove the task from the todo list
-breadTask.remove();
+groceryList.remove(breadTask);
 
 groceryList.list();
 //> Task {id: 2, description: 'cheese', completed: false}
