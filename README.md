@@ -10,7 +10,7 @@
 
 This challenge should be done entierly in the JavaScript console within the chrome developer tools. 
 
-This is part two of the [JavaScript Todos challenge](../javascript-todos)
+This is part two of the [JavaScript Todos challenge](../../../javascript-todos-1-0-core-features-challenge-1)
 
 This challenge is designed to introduce you to JavaScript the language before we introduce features of the web browser.
 
